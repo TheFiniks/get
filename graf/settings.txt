@@ -1,0 +1,2 @@
+Average Sampling Rate: 17.49501990684272 Hz/n
+Quantization Step: 0.012890625 V
